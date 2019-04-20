@@ -1,2 +1,9 @@
-# Machine-Learning
-This Repository contains Python and R codes for each algorithm in Machine Learning, Deep Learning and NLP 
+# KNNClassifier
+
+This Repositiry consist of a KNN algoritm for a classification problem.
+The Challenge is always how to get best 'K' nearest neighbors. To achive it, i havve used the following techniques:-
+1. Grid Search
+2. Elbow Plot.
+3. Loop through different values of 'K' and model them to get the accuracy(Consumes time.)
+
+Through my analysis i found that 'Grid search' performs well and gives more accurate results as compared to Elbow plot.

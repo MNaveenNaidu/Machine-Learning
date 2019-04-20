@@ -1,7 +1,7 @@
 # KNNClassifier
 
 This Repositiry consist of a KNN algoritm for a classification problem.
-The Challenge is always how to get best 'K' nearest neighbors. To achive it, i havve used the following techniques:-
+The Challenge is always how to get best 'K' nearest neighbors. To achive it, i have used the following techniques:-
 1. Grid Search
 2. Elbow Plot.
 3. Loop through different values of 'K' and model them to get the accuracy(Consumes time.)
